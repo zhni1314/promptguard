@@ -1,0 +1,19 @@
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 数据库文件
+*.db
+*.sqlite3
+
+# 测试缓存
+.pytest_cache/
+
+# 系统文件
+.DS_Store
+Thumbs.db
